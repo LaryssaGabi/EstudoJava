@@ -24,6 +24,7 @@ System.out.println("10 - 5 = " + (10-5));
 Realiza a subtração de dois números e exibe o resultado:
 
 ```java
+ System.out.println("Ajuda nas anotações de estudos?");
 ```
 
 ### 🔹 Perfil.java
